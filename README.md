@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Blockchain technology 
 - 💬 Ask me about anything
-- 📫 How to reach me: 
+- 📫 How to reach me: <br />
   <a href="https://www.linkedin.com/in/kavishka-gardiarachchi-4816041b8"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg" alt="LinkedIn"></a>
 - 😄 Pronouns: He/His
 <!-- - ⚡ Fun fact: ... -->
