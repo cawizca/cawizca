@@ -10,7 +10,24 @@ When I'm not writing code, I satisfy my wanderlust by travelling to new destinat
 
 ## Tools I work with...
 ### Languages
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e??style=flat&labelColor=000000&logo=javascript)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-f7df1e??style=flat&labelColor=ffffff&logo=typescript)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-ffffff??style=flat&labelColor=000000&logo=javascript)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-ffffff??style=flat&labelColor=000000&logo=typescript)
+![Java Badge](https://img.shields.io/badge/-Java-ffffff??style=flat&labelColor=000000&logo=java)
+![Python Badge](https://img.shields.io/badge/-Python-ffffff??style=flat&labelColor=000000&logo=python)
+![SQL Badge](https://img.shields.io/badge/-SQL-ffffff??style=flat&labelColor=000000&logo=mysql)
+
+### Frameworks
+![NodeJs Badge](https://img.shields.io/badge/-NodeJS-ffffff??style=flat&labelColor=000000&logo=nodedotjs)
+![Express Badge](https://img.shields.io/badge/-Express-ffffff??style=flat&labelColor=000000&logo=express)
+![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-ffffff??style=flat&labelColor=000000&logo=springboot)
+![Next JS Badge](https://img.shields.io/badge/-NextJS-ffffff??style=flat&labelColor=000000&logo=nextdotjs)
+![Nest JS Badge](https://img.shields.io/badge/-NestJS-ffffff??style=flat&labelColor=E0234E&logo=nestjs)
+
+### Databases
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-ffffff??style=flat&labelColor=000000&logo=mongodb)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-ffffff??style=flat&labelColor=000000&logo=mysql)
+![MariaDB Badge](https://img.shields.io/badge/-MariaDB-ffffff??style=flat&labelColor=000000&logo=mariadb)
+![MariaDB Badge](https://img.shields.io/badge/-MariaDB-ffffff??style=flat&labelColor=000000&logo=mariadb)
+![ElasticSearch Badge](https://img.shields.io/badge/-ElasticSearch-ffffff??style=flat&labelColor=000000&logo=elasticsearch)
 
 And More...
